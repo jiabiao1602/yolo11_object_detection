@@ -1,0 +1,8 @@
+path: F:/YOLO11/chapter06/bee_detection/datasets
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['bees']
+
